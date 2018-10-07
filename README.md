@@ -1,5 +1,5 @@
 # pianosimpel
-.
+
 Oleh kelompok 5
 Anggota :
 1. Al Imran (D42115005)
